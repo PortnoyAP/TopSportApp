@@ -2,10 +2,13 @@ package com.example.topsportapp.splash;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.widget.ImageView;
 
 import com.example.topsportapp.R;
+import com.example.topsportapp.SignIn.SignInActivity;
 
 public class SplashActivity extends AppCompatActivity {
 
@@ -17,7 +20,27 @@ public class SplashActivity extends AppCompatActivity {
         setContentView(R.layout.activity_splash);
         init();
         enabledViewForLogo();
+        Thread thread = new Thread() {
+            @Override
+            public void run() {
+                try{
+                    sleep(2000);
+                }catch (Exception e) {
+                    e.printStackTrace();
+                }finally {
+                    startActivity(new Intent(SplashActivity.this,SignInActivity.class));
+                }
+            }
+        };
+        thread.start();
     }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        finish();
+    }
+
 
     public void init() {
         logoImage = findViewById(R.id.image_view_logo_top_sport);
@@ -29,8 +52,8 @@ public class SplashActivity extends AppCompatActivity {
     }
 
     public void enabledViewForLogo() {
-        logoImage.animate().alpha(1).setDuration(4000);
-        logoImage.animate().scaleX(1.2f).scaleY(1.2f).setDuration(3000);
-        logoImage.animate().rotationX(0).setDuration(4000);
+            logoImage.animate().alpha(1).setDuration(1000);
+            logoImage.animate().scaleX(1.2f).scaleY(1.2f).setDuration(1000);
+            logoImage.animate().rotationX(0).setDuration(1000);
     }
 }

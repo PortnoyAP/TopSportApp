@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "66033110350",
+    "project_id": "topsport-a2b6e",
+    "storage_bucket": "topsport-a2b6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66033110350:android:b36fd2ab3ba437ae5c621f",
+        "android_client_info": {
+          "package_name": "com.example.topsportapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66033110350-t8cmv8v8df31tomng6jbqvvdghg34qsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.topsportapp",
+            "certificate_hash": "d2794ce49a5b77570e0b3626809808b1c3d0646c"
+          }
+        },
+        {
+          "client_id": "66033110350-5g8csloclm01e3g2m1q6904pj841qsjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2JDEQ91lOndlC3k4PWeo2g7cKXmLDFIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66033110350-5g8csloclm01e3g2m1q6904pj841qsjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

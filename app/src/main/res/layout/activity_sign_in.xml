@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EACD91"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".SignIn.SignInActivity">
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:endIconTint="#B82F2F"
+        app:errorEnabled="true">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:hint="Email"
+            android:inputType="textEmailAddress"
+            android:textColor="#2C431C"
+            android:textColorHint="#69C329"
+            android:textCursorDrawable="@color/design_default_color_error" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        app:counterEnabled="true"
+        app:counterMaxLength="15"
+        app:errorEnabled="true">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Name"
+            android:fontFamily="sans-serif-black"
+            android:inputType="text"
+            android:textColor="#2C431C"
+            android:textColorHint="#69C329"
+            android:textCursorDrawable="@color/design_default_color_error"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:errorEnabled="true"
+        app:passwordToggleEnabled="true">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:textColor="#2C431C"
+            android:textColorHint="#69C329"
+            android:textCursorDrawable="@color/design_default_color_error" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputConfirmPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        app:errorEnabled="true"
+        app:passwordToggleEnabled="true">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:hint="Confirm Password"
+            android:inputType="textPassword"
+            android:textColor="#2C431C"
+            android:textColorHint="#69C329"
+            android:textCursorDrawable="@color/design_default_color_error"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <TextView
+        android:id="@+id/resetPasswordTextClickable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="#D5B574"
+        android:clickable="true"
+        android:fontFamily="@font/wallpoet"
+        android:onClick="resetPassword"
+        android:text="reset password"
+        android:textColor="@android:color/background_dark"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/logInButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:background="?android:attr/colorActivatedHighlight"
+        android:fontFamily="@font/wallpoet"
+        android:onClick="logInUser"
+        android:text=" log in "
+        android:textColor="#FFFFFF"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/createNewUserTextClickable"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:background="?android:attr/colorActivatedHighlight"
+        android:fontFamily="@font/wallpoet"
+        android:onClick="showCreateNewUserFields"
+        android:text="create new user"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/signUpButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="?android:attr/colorActivatedHighlight"
+        android:fontFamily="@font/wallpoet"
+        android:onClick="signUpUser"
+        android:text="Create User"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/logInUserTextClickable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:background="#D5B574"
+        android:clickable="true"
+        android:fontFamily="@font/syncopate_bold"
+        android:onClick="showLoginUserFields"
+        android:text="log In user "
+        android:textColor="@android:color/background_dark"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:background="?android:attr/colorActivatedHighlight"
+        android:fontFamily="@font/wallpoet"
+        android:onClick="startApp"
+        android:text="Start"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/logOutUserButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp"
+        android:background="?attr/colorAccent"
+        android:fontFamily="@font/wallpoet"
+        android:onClick="logOutUser"
+        android:text="LOGOUT"
+        android:textSize="20sp"
+        android:visibility="gone" />
+
+
+</LinearLayout>
