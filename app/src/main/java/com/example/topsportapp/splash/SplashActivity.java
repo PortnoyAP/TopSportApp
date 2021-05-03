@@ -4,11 +4,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
 import android.widget.ImageView;
 
 import com.example.topsportapp.R;
-import com.example.topsportapp.SignIn.SignInActivity;
+import com.example.topsportapp.signIn.SignInActivity;
 
 public class SplashActivity extends AppCompatActivity {
 

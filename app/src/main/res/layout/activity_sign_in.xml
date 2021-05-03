@@ -7,7 +7,7 @@
     android:background="#EACD91"
     android:orientation="vertical"
     android:padding="16dp"
-    tools:context=".SignIn.SignInActivity">
+    tools:context=".signIn.SignInActivity">
 
 
     <com.google.android.material.textfield.TextInputLayout
@@ -116,7 +116,7 @@
         android:textSize="20sp" />
 
     <Button
-        android:id="@+id/createNewUserTextClickable"
+        android:id="@+id/button_to_create_new_user_form"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="100dp"
@@ -140,20 +140,17 @@
         android:textSize="20sp"
         android:visibility="gone" />
 
-    <TextView
-        android:id="@+id/logInUserTextClickable"
-        android:layout_width="wrap_content"
+    <Button
+        android:id="@+id/button_to_login_user_form"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
         android:layout_marginTop="40dp"
-        android:background="#D5B574"
-        android:clickable="true"
-        android:fontFamily="@font/syncopate_bold"
+        android:background="?android:attr/colorActivatedHighlight"
+        android:fontFamily="@font/wallpoet"
         android:onClick="showLoginUserFields"
         android:text="log In user "
-        android:textColor="@android:color/background_dark"
-        android:textSize="14sp"
-        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
         android:visibility="gone" />
 
     <Button

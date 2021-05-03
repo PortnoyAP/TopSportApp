@@ -1,4 +1,4 @@
-package com.example.topsportapp.SignIn;
+package com.example.topsportapp.signIn;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -12,7 +12,7 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.topsportapp.MainActivity;
+import com.example.topsportapp.main.MainActivity;
 import com.example.topsportapp.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
@@ -41,8 +41,8 @@ public class SignInActivity extends AppCompatActivity {
     private FirebaseAuth auth;
     private SharedPreferences sharedPreferences;
     private TextInputLayout textInputEmail, textInputName, textInputPassword, textInputConfirmPassword;
-    private Button signUpButton, logInButton, startButton, logOutUserButton;
-    private TextView resetPasswordTextClickable, createNewUserTextClickable,logInUserTextClickable;
+    private Button signUpButton, logInButton, startButton, logOutUserButton, toCreateNewUserFormButton, toLoginUserFormButton;
+    private TextView resetPasswordTextClickable;
 
 
 
@@ -62,14 +62,14 @@ public class SignInActivity extends AppCompatActivity {
         textInputPassword = findViewById(R.id.textInputPassword);
         textInputConfirmPassword = findViewById(R.id.textInputConfirmPassword);
 
+        toCreateNewUserFormButton = findViewById(R.id.button_to_create_new_user_form);
+        toLoginUserFormButton = findViewById(R.id.button_to_login_user_form);
         signUpButton = findViewById(R.id.signUpButton);
         logInButton = findViewById(R.id.logInButton);
         startButton = findViewById(R.id.startButton);
         logOutUserButton = findViewById(R.id.logOutUserButton);
 
         resetPasswordTextClickable = findViewById(R.id.resetPasswordTextClickable);
-        createNewUserTextClickable = findViewById(R.id.createNewUserTextClickable);
-        logInUserTextClickable = findViewById(R.id.logInUserTextClickable);
     }
 
     @Override
@@ -91,10 +91,12 @@ public class SignInActivity extends AppCompatActivity {
         textInputName.setVisibility(View.GONE);
         textInputPassword.setVisibility(View.GONE);
         textInputConfirmPassword.setVisibility(View.GONE);
+
         signUpButton.setVisibility(View.GONE);
         logInButton.setVisibility(View.GONE);
+
         resetPasswordTextClickable.setVisibility(View.GONE);
-        createNewUserTextClickable.setVisibility(View.GONE);
+        toCreateNewUserFormButton.setVisibility(View.GONE);
 
         startButton.setVisibility(View.VISIBLE);
         logOutUserButton.setVisibility(View.VISIBLE);
@@ -105,12 +107,12 @@ public class SignInActivity extends AppCompatActivity {
         textInputPassword.setVisibility(View.VISIBLE);
         logInButton.setVisibility(View.VISIBLE);
         resetPasswordTextClickable.setVisibility(View.VISIBLE);
-        createNewUserTextClickable.setVisibility(View.VISIBLE);
+        toCreateNewUserFormButton.setVisibility(View.VISIBLE);
 
         textInputName.setVisibility(View.GONE);
         textInputConfirmPassword.setVisibility(View.GONE);
         signUpButton.setVisibility(View.GONE);
-        logInUserTextClickable.setVisibility(View.GONE);
+        toLoginUserFormButton.setVisibility(View.GONE);
 
         Toast.makeText(this, "email password", Toast.LENGTH_SHORT).show();
     }
@@ -121,10 +123,10 @@ public class SignInActivity extends AppCompatActivity {
         textInputPassword.setVisibility(View.VISIBLE);
         textInputConfirmPassword.setVisibility(View.VISIBLE);
         signUpButton.setVisibility(View.VISIBLE);
-        logInUserTextClickable.setVisibility(View.VISIBLE);
+        toLoginUserFormButton.setVisibility(View.VISIBLE);
 
         logInButton.setVisibility(View.GONE);
-        createNewUserTextClickable.setVisibility(View.GONE);
+        toCreateNewUserFormButton.setVisibility(View.GONE);
         resetPasswordTextClickable.setVisibility(View.GONE);
 
         Toast.makeText(this, "email name password", Toast.LENGTH_SHORT).show();
@@ -244,7 +246,7 @@ public class SignInActivity extends AppCompatActivity {
     }
 
     public void startApp(View view) {
-        Toast.makeText(this, "APP START", Toast.LENGTH_SHORT).show();
+        startActivity(new Intent(this,MainActivity.class));
     }
 
     public void logOutUser(View view) {

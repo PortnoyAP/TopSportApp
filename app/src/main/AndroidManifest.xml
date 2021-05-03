@@ -10,8 +10,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TopSportApp">
-        <activity android:name=".SignIn.SignInActivity"></activity>
-        <activity android:name=".MainActivity" />
+        <activity android:name=".signIn.SignInActivity"></activity>
+        <activity android:name=".main.MainActivity" />
         <activity android:name=".splash.SplashActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
