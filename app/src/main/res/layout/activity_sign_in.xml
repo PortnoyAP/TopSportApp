@@ -26,7 +26,6 @@
             android:textColor="#2C431C"
             android:textColorHint="#69C329"
             android:textCursorDrawable="@color/design_default_color_error" />
-
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputLayout

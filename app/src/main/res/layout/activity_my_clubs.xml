@@ -7,16 +7,17 @@
     android:layout_height="match_parent"
     android:background="#EACD91"
     android:padding="16dp"
-    tools:context=".main.MainActivity">
+    tools:context=".clubs.MyClubsActivity">
+
 
 
     <Button
-        android:id="@+id/button_to_my_clubs"
-        android:layout_marginTop="40dp"
+        android:id="@+id/add_new_club"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="To My Clubs"
+        android:layout_marginTop="40dp"
+        android:text="add new club"
         android:fontFamily="@font/wallpoet"
-        android:onClick="toMyClubsActivity"/>
+        android:onClick="toClubFormActivity" />
 
 </LinearLayout>

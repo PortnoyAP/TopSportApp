@@ -33,7 +33,7 @@ import com.google.firebase.auth.FirebaseUser;
 public class SignInActivity extends AppCompatActivity {
 
     private static final String TAG = "SignInActivity";
-    private static final String PREF_EMAIL_USER = "UserEmail";
+    public static final String PREF_EMAIL_USER = "UserEmail";
     public static final String PREF_NAME = "UserEmailInfo";
 
 
@@ -266,9 +266,9 @@ public class SignInActivity extends AppCompatActivity {
     }
 
     public void saveToSharedPreferences() {
-        String actualUserEmail = textInputEmail.getEditText().toString();
+        String actualUserEmail = auth.getCurrentUser().getEmail();
         SharedPreferences.Editor prefEditor = sharedPreferences.edit();
-        prefEditor.putString(PREF_NAME, actualUserEmail);
+        prefEditor.putString(PREF_EMAIL_USER, actualUserEmail);
         prefEditor.apply();
     }
 
