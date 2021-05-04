@@ -9,7 +9,6 @@ public class Club {
     private String email;
     private String phoneNumber;
 
-
     public Club() {
     }
 
