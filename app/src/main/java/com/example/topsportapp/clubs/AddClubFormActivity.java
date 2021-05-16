@@ -7,6 +7,8 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.ArrayAdapter;
+import android.widget.AutoCompleteTextView;
 import android.widget.EditText;
 import android.widget.Toast;
 
@@ -25,6 +27,7 @@ import org.json.JSONObject;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
+import java.util.List;
 
 import static com.example.topsportapp.signIn.SignInActivity.PREF_EMAIL_USER;
 import static com.example.topsportapp.signIn.SignInActivity.PREF_NAME;
@@ -40,13 +43,15 @@ public class AddClubFormActivity extends AppCompatActivity {
     private Club club;
     private LocalJSONFile localJSONFile;
 
-    private TextInputLayout city, sportStyle, clubName, address, email, phoneNumber;
+    private TextInputLayout /*city,*/ /*sportStyle,*/ clubName, address, email, phoneNumber;
+    private AutoCompleteTextView city, sportStyle;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_club_form);
         init();
+        activateSpinners();
     }
 
     public void init() {
@@ -54,17 +59,34 @@ public class AddClubFormActivity extends AppCompatActivity {
         db = FirebaseFirestore.getInstance();
         localJSONFile = new LocalJSONFile();
 
-        city = findViewById(R.id.text_input_city);
-        sportStyle = findViewById(R.id.text_input_sport_style);
+        city = findViewById(R.id.actv_city);
+        sportStyle = findViewById(R.id.actv_sport_style);
+     //   city = findViewById(R.id.text_input_city);
+     //    sportStyle = findViewById(R.id.text_input_sport_style);
         clubName = findViewById(R.id.text_input_club_name);
         address = findViewById(R.id.text_input_address);
         email = findViewById(R.id.text_input_email);
         phoneNumber = findViewById(R.id.text_input_phone_number);
     }
 
+    public void activateSpinners () {
+        List<String> listCities= new ArrayList<>();
+        listCities = localJSONFile.getInfoFromLocalJsonFileCities(this);
+        ArrayAdapter<String>citiesAdapter = new ArrayAdapter<>(this, R.layout.drop_down_item,listCities);
+        city.setAdapter(citiesAdapter);
+
+        List<String>listSportTypes = new ArrayList<>();
+        listSportTypes = localJSONFile.getInfoFromLocalJsonFileSportType(this);
+        ArrayAdapter<String>sportTypeAdapter = new ArrayAdapter<>(this, R.layout.drop_down_item,listSportTypes);
+        sportStyle.setAdapter(sportTypeAdapter);
+
+    }
+
     public void addNewClub(View view) {
 
-        club = new Club(city.getEditText().getText().toString(), sportStyle.getEditText().getText().toString()
+        //  add CHECK Null exception in fields !!!
+
+        club = new Club(city.getText().toString(), sportStyle.getText().toString()
                 , clubName.getEditText().getText().toString(), address.getEditText().getText().toString()
                 , email.getEditText().getText().toString(), phoneNumber.getEditText().getText().toString());
 
@@ -87,5 +109,7 @@ public class AddClubFormActivity extends AppCompatActivity {
 
 
     }
+
+
 
 }

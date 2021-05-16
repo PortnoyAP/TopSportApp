@@ -1,0 +1,97 @@
+[
+  {
+    "sportTypeHE": "ג'יו ג'יטסו ברזילאי",
+    "sportTypeEN": "Brazilian jiu-jitsu",
+    "sportTypeRU": "Бразильское джиу-джитсу"
+  },
+  {
+    "sportTypeHE": "היאבקות",
+    "sportTypeEN": "Wrestling",
+    "sportTypeRU": "Борьба"
+  },
+  {
+    "sportTypeHE": "טאי צ'י",
+    "sportTypeEN": "Tai Chi",
+    "sportTypeRU": "Тай Чи"
+  },
+  {
+    "sportTypeHE": "טאקוואנדו",
+    "sportTypeEN": "Taekwondo",
+    "sportTypeRU": "Тхэквондо"
+  },
+  {
+    "sportTypeHE": "נינג'יטסו",
+    "sportTypeEN": "Ninjitsu",
+    "sportTypeRU": "Ниндзюцу"
+  },
+  {
+    "sportTypeHE": "סיף",
+    "sportTypeEN": "Fencing",
+    "sportTypeRU": "Фехтование"
+  },
+  {
+    "sportTypeHE": "קונג פו",
+    "sportTypeEN": "Kung Fu",
+    "sportTypeRU": "Кунг Фу"
+  },
+  {
+    "sportTypeHE": "קיודו",
+    "sportTypeEN": "Kyodo",
+    "sportTypeRU": "Киодо"
+  },
+  {
+    "sportTypeHE": "קנדו",
+    "sportTypeEN": "Kendo",
+    "sportTypeRU": "Кендо"
+  },
+  {
+    "sportTypeHE": "קפוארה",
+    "sportTypeEN": "Capoeira",
+    "sportTypeRU": "Капоэйра"
+  },
+  {
+    "sportTypeHE": "קראטה",
+    "sportTypeEN": "Karate",
+    "sportTypeRU": "Каратэ"
+  },
+  {
+    "sportTypeHE": "קרב-מגע",
+    "sportTypeEN": "Krav Maga",
+    "sportTypeRU": "Крав Мага"
+  },
+  {
+    "sportTypeHE": "ג'ודו",
+    "sportTypeEN": "Judo",
+    "sportTypeRU": "Дзюдо"
+  },
+  {
+    "sportTypeHE": "אראניס",
+    "sportTypeEN": "Aranis",
+    "sportTypeRU": "Аранис"
+  },
+  {
+    "sportTypeHE": "אייקידו",
+    "sportTypeEN": "Aikido",
+    "sportTypeRU": "Айкидо"
+  },
+  {
+    "sportTypeHE": "איגרוף תאילנדי",
+    "sportTypeEN": "Muay Thai",
+    "sportTypeRU": "Тайский бокс"
+  },
+  {
+    "sportTypeHE": "איגרוף",
+    "sportTypeEN": "Boxing",
+    "sportTypeRU": "Бокс"
+  },
+  {
+    "sportTypeHE": "איאיידו",
+    "sportTypeEN": "Iaido",
+    "sportTypeRU": "Иайдо"
+  },
+  {
+    "sportTypeHE": "MMA",
+    "sportTypeEN": "MMA",
+    "sportTypeRU": "MMA"
+  }
+]

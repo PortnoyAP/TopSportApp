@@ -282,11 +282,6 @@
     "englishName": "Ora"
   },
   {
-    "cityName": "אורון",
-    "symbol": "1771",
-    "englishCopy": " "
-  },
-  {
     "cityName": "אורות",
     "symbol": "2012",
     "englishCopy": "OROT",
@@ -327,349 +322,6 @@
     "symbol": "565",
     "englishCopy": "AZOR",
     "englishName": "Azor"
-  },
-  {
-    "cityName": "אזור אילון מ\"א 4",
-    "symbol": "1852"
-  },
-  {
-    "cityName": "אזור אילון מ\"א 52",
-    "symbol": "1851"
-  },
-  {
-    "cityName": "אזור אילון של\"ש",
-    "symbol": "1853"
-  },
-  {
-    "cityName": "אזור אשדוד מ\"א 29",
-    "symbol": "1922"
-  },
-  {
-    "cityName": "אזור אשדוד מ\"א 33",
-    "symbol": "1921"
-  },
-  {
-    "cityName": "אזור אשדוד של\"ש",
-    "symbol": "1923"
-  },
-  {
-    "cityName": "אזור אשקלון מ\"א 36",
-    "symbol": "1924"
-  },
-  {
-    "cityName": "אזור אשקלון מ\"א 37",
-    "symbol": "1926"
-  },
-  {
-    "cityName": "אזור באר שבע מ\"א 41",
-    "symbol": "1937"
-  },
-  {
-    "cityName": "אזור באר שבע מ\"א 51",
-    "symbol": "1938"
-  },
-  {
-    "cityName": "אזור באר שבע של\"ש",
-    "symbol": "1939"
-  },
-  {
-    "cityName": "אזור בשור מ\"א 38",
-    "symbol": "1933"
-  },
-  {
-    "cityName": "אזור בשור מ\"א 39",
-    "symbol": "1935"
-  },
-  {
-    "cityName": "אזור בשור מ\"א 42",
-    "symbol": "1934"
-  },
-  {
-    "cityName": "אזור גלילות מ\"א 19",
-    "symbol": "1907"
-  },
-  {
-    "cityName": "אזור גרר מ\"א 39",
-    "symbol": "1931"
-  },
-  {
-    "cityName": "אזור גרר מ\"א 41",
-    "symbol": "1929"
-  },
-  {
-    "cityName": "אזור גרר מ\"א 42",
-    "symbol": "1930"
-  },
-  {
-    "cityName": "אזור זכרון יעקב מ\"א 15",
-    "symbol": "1866"
-  },
-  {
-    "cityName": "אזור זכרון יעקב של\"ש",
-    "symbol": "1867"
-  },
-  {
-    "cityName": "אזור חדרה מ\"א 14",
-    "symbol": "1873"
-  },
-  {
-    "cityName": "אזור חדרה מ\"א 15",
-    "symbol": "1872"
-  },
-  {
-    "cityName": "אזור חדרה מ\"א 45",
-    "symbol": "1871"
-  },
-  {
-    "cityName": "אזור חדרה של\"ש",
-    "symbol": "1874"
-  },
-  {
-    "cityName": "אזור חולון של\"ש",
-    "symbol": "1909"
-  },
-  {
-    "cityName": "אזור חיפה מ\"א 12",
-    "symbol": "1860"
-  },
-  {
-    "cityName": "אזור חיפה של\"ש",
-    "symbol": "1862"
-  },
-  {
-    "cityName": "אזור חצור מ\"א 1",
-    "symbol": "1813"
-  },
-  {
-    "cityName": "אזור חצור מ\"א 55",
-    "symbol": "1814"
-  },
-  {
-    "cityName": "אזור חצור של\"ש",
-    "symbol": "1815"
-  },
-  {
-    "cityName": "אזור יחיעם מ\"א 2",
-    "symbol": "1848"
-  },
-  {
-    "cityName": "אזור יחיעם מ\"א 4",
-    "symbol": "1846"
-  },
-  {
-    "cityName": "אזור יחיעם מ\"א 52",
-    "symbol": "1847"
-  },
-  {
-    "cityName": "אזור יחיעם מ\"א 56",
-    "symbol": "1849"
-  },
-  {
-    "cityName": "אזור יחיעם של\"ש",
-    "symbol": "1850"
-  },
-  {
-    "cityName": "אזור ים המלח מ\"א 51",
-    "symbol": "1942"
-  },
-  {
-    "cityName": "אזור יקנעם מ\"א 13",
-    "symbol": "1836"
-  },
-  {
-    "cityName": "אזור יקנעם מ\"א 9",
-    "symbol": "1835"
-  },
-  {
-    "cityName": "אזור כינרות מ\"א 3",
-    "symbol": "1805"
-  },
-  {
-    "cityName": "אזור כנרות מ\"א 1",
-    "symbol": "1816"
-  },
-  {
-    "cityName": "אזור כנרות מ\"א 6",
-    "symbol": "1817"
-  },
-  {
-    "cityName": "אזור כנרות של\"ש",
-    "symbol": "1818"
-  },
-  {
-    "cityName": "אזור כרמיאל מ\"א 2",
-    "symbol": "1843"
-  },
-  {
-    "cityName": "אזור כרמיאל מ\"א 56",
-    "symbol": "1844"
-  },
-  {
-    "cityName": "אזור כרמיאל של\"ש",
-    "symbol": "1845"
-  },
-  {
-    "cityName": "אזור לכיש מ\"א 34",
-    "symbol": "1919"
-  },
-  {
-    "cityName": "אזור לכיש מ\"א 35",
-    "symbol": "1917"
-  },
-  {
-    "cityName": "אזור לכיש מ\"א 41",
-    "symbol": "1920"
-  },
-  {
-    "cityName": "אזור לכיש מ\"א 50",
-    "symbol": "1918"
-  },
-  {
-    "cityName": "אזור מודיעין מ\"א 25",
-    "symbol": "1887"
-  },
-  {
-    "cityName": "אזור מודיעין מ\"א 30",
-    "symbol": "1890"
-  },
-  {
-    "cityName": "אזור מודיעין של\"ש",
-    "symbol": "1895"
-  },
-  {
-    "cityName": "אזור מלאכי מ\"א 33",
-    "symbol": "1911"
-  },
-  {
-    "cityName": "אזור מלאכי מ\"א 34",
-    "symbol": "1915"
-  },
-  {
-    "cityName": "אזור מלאכי מ\"א 35",
-    "symbol": "1913"
-  },
-  {
-    "cityName": "אזור מלאכי מ\"א 50",
-    "symbol": "1914"
-  },
-  {
-    "cityName": "אזור נהרייה מ\"א 4",
-    "symbol": "1855"
-  },
-  {
-    "cityName": "אזור נהרייה של\"ש",
-    "symbol": "1856"
-  },
-  {
-    "cityName": "אזור עכו מ\"א 4",
-    "symbol": "1858"
-  },
-  {
-    "cityName": "אזור עכו מ\"א 56",
-    "symbol": "1857"
-  },
-  {
-    "cityName": "אזור עכו של\"ש",
-    "symbol": "1859"
-  },
-  {
-    "cityName": "אזור פתח תקווה מ\"א 20",
-    "symbol": "1888"
-  },
-  {
-    "cityName": "אזור פתח תקווה מ\"א 25",
-    "symbol": "1886"
-  },
-  {
-    "cityName": "אזור פתח תקווה של\"ש",
-    "symbol": "1889"
-  },
-  {
-    "cityName": "אזור ראשל\"צ מ\"א 27",
-    "symbol": "1903"
-  },
-  {
-    "cityName": "אזור ראשל\"צ של\"ש",
-    "symbol": "1904"
-  },
-  {
-    "cityName": "אזור רחובות מ\"א 28",
-    "symbol": "1896"
-  },
-  {
-    "cityName": "אזור רחובות מ\"א 29",
-    "symbol": "1899"
-  },
-  {
-    "cityName": "אזור רחובות מ\"א 30",
-    "symbol": "1898"
-  },
-  {
-    "cityName": "אזור רחובות מ\"א 31",
-    "symbol": "1901"
-  },
-  {
-    "cityName": "אזור רחובות מ\"א 32",
-    "symbol": "1897"
-  },
-  {
-    "cityName": "אזור רחובות של\"ש",
-    "symbol": "1902"
-  },
-  {
-    "cityName": "אזור רמלה מ\"א 25",
-    "symbol": "1892"
-  },
-  {
-    "cityName": "אזור רמלה מ\"א 30",
-    "symbol": "1891"
-  },
-  {
-    "cityName": "אזור רמלה מ\"א 40",
-    "symbol": "1893"
-  },
-  {
-    "cityName": "אזור רמלה של\"ש",
-    "symbol": "1894"
-  },
-  {
-    "cityName": "אזור רמת גן של\"ש",
-    "symbol": "1908"
-  },
-  {
-    "cityName": "אזור שפרעם מ\"א 56",
-    "symbol": "1841"
-  },
-  {
-    "cityName": "אזור שפרעם מ\"א 9",
-    "symbol": "1840"
-  },
-  {
-    "cityName": "אזור שפרעם של\"ש",
-    "symbol": "1842"
-  },
-  {
-    "cityName": "אזור תל אביב של\"ש",
-    "symbol": "1905"
-  },
-  {
-    "cityName": "אזור תעסוקה משגב(תרדיון)",
-    "symbol": "1724",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "אזור תעשיה אכסאל מ\"א 9",
-    "symbol": "1865"
-  },
-  {
-    "cityName": "אזור תעשייה אכזיב (מילואות)",
-    "symbol": "1726",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "אזור תעשייה נעמן (מילואות)",
-    "symbol": "1727",
-    "englishCopy": " "
   },
   {
     "cityName": "אחווה",
@@ -742,11 +394,6 @@
     "symbol": "294",
     "englishCopy": "ELON",
     "englishName": "Elon"
-  },
-  {
-    "cityName": "אילון תבור*",
-    "symbol": "1716",
-    "englishCopy": " "
   },
   {
     "cityName": "אילות",
@@ -1247,11 +894,6 @@
     "englishName": "Bitha"
   },
   {
-    "cityName": "בי\"ס אזורי מקיף (אשר)",
-    "symbol": "1725",
-    "englishCopy": " "
-  },
-  {
     "cityName": "ביצרון",
     "symbol": "234",
     "englishCopy": "BIZZARON",
@@ -1388,11 +1030,6 @@
     "symbol": "143",
     "englishCopy": "BET ZERA",
     "englishName": "Bet Zera"
-  },
-  {
-    "cityName": "בית חולים פוריה",
-    "symbol": "1712",
-    "englishCopy": " "
   },
   {
     "cityName": "בית חורון",
@@ -1719,19 +1356,6 @@
     "englishName": "Beqa'ot"
   },
   {
-    "cityName": "בקעת נטופה מ\"א 56",
-    "symbol": "1854"
-  },
-  {
-    "cityName": "בקעת תירען מ\"א 3",
-    "symbol": "1884"
-  },
-  {
-    "cityName": "בר-לב",
-    "symbol": "1728",
-    "englishCopy": " "
-  },
-  {
     "cityName": "בר גיורא",
     "symbol": "823",
     "englishCopy": "BAR GIYYORA",
@@ -1840,11 +1464,6 @@
     "englishName": "Bat Shelomo"
   },
   {
-    "cityName": "בתי זיקוק - קישון",
-    "symbol": "1736",
-    "englishCopy": " "
-  },
-  {
     "cityName": "ג'דיידה-מכר",
     "symbol": "1292",
     "englishCopy": "JUDEIDE-MAKER",
@@ -1897,10 +1516,6 @@
     "symbol": "379",
     "englishCopy": "GE'ULIM",
     "englishName": "Ge'ulim"
-  },
-  {
-    "cityName": "גאון הירדן מ\"א 3",
-    "symbol": "1963"
   },
   {
     "cityName": "גאליה",
@@ -1991,11 +1606,6 @@
     "symbol": "207",
     "englishCopy": "GIV'AT HEN",
     "englishName": "Giv'at Hen"
-  },
-  {
-    "cityName": "גבעת חביבה",
-    "symbol": "1740",
-    "englishCopy": " "
   },
   {
     "cityName": "גבעת חיים (איחוד)",
@@ -2112,18 +1722,6 @@
     "englishName": "Gedera"
   },
   {
-    "cityName": "גולן דרומי מ\"א 71",
-    "symbol": "1966"
-  },
-  {
-    "cityName": "גולן צפוני מ\"א 71",
-    "symbol": "1962"
-  },
-  {
-    "cityName": "גולן תיכון מ\"א 71",
-    "symbol": "1964"
-  },
-  {
     "cityName": "גונן",
     "symbol": "852",
     "englishCopy": "GONEN",
@@ -2232,46 +1830,10 @@
     "englishName": "Gelil Yam"
   },
   {
-    "cityName": "גליל עליון מז מ\"א 1",
-    "symbol": "1809"
-  },
-  {
-    "cityName": "גליל עליון מז מ\"א 2",
-    "symbol": "1811"
-  },
-  {
-    "cityName": "גליל עליון מז מ\"א 55",
-    "symbol": "1810"
-  },
-  {
-    "cityName": "גליל עליון מז של\"ש",
-    "symbol": "1812"
-  },
-  {
-    "cityName": "גליל תחתון מז מ\"א 2",
-    "symbol": "1820"
-  },
-  {
-    "cityName": "גליל תחתון מז מ\"א 3",
-    "symbol": "1819"
-  },
-  {
-    "cityName": "גליל תחתון מז מ\"א 6",
-    "symbol": "1821"
-  },
-  {
-    "cityName": "גליל תחתון מז של\"ש",
-    "symbol": "1822"
-  },
-  {
     "cityName": "גלעד (אבן יצחק)",
     "symbol": "369",
     "englishCopy": "GAL'ED (EVEN YIZHAQ)",
     "englishName": "Gal'ed (Even Yizhaq)"
-  },
-  {
-    "cityName": "גמ\"ל מחוז דרום",
-    "symbol": "1997"
   },
   {
     "cityName": "גמזו",
@@ -2550,11 +2112,6 @@
     "englishName": "Dalton "
   },
   {
-    "cityName": "דלתון",
-    "symbol": "1709",
-    "englishCopy": " "
-  },
-  {
     "cityName": "דמיידה",
     "symbol": "1317",
     "englishCopy": "DEMEIDE",
@@ -2577,22 +2134,6 @@
     "symbol": "1241",
     "englishCopy": "DEQEL",
     "englishName": "Deqel"
-  },
-  {
-    "cityName": "דרום השרון מ\"א 18",
-    "symbol": "1881"
-  },
-  {
-    "cityName": "דרום השרון מ\"א 20",
-    "symbol": "1882"
-  },
-  {
-    "cityName": "דרום השרון של\"ש",
-    "symbol": "1885"
-  },
-  {
-    "cityName": "דרום יהודה",
-    "symbol": "1998"
   },
   {
     "cityName": "דריג'את",
@@ -2697,11 +2238,6 @@
     "englishName": "HaMa'pil"
   },
   {
-    "cityName": "המרכז למחקר-נחל שורק",
-    "symbol": "1751",
-    "englishCopy": " "
-  },
-  {
     "cityName": "הסוללים",
     "symbol": "677",
     "englishCopy": "HASOLELIM",
@@ -2714,68 +2250,16 @@
     "englishName": "HaOgen"
   },
   {
-    "cityName": "הערבה מ\"א 51",
-    "symbol": "1944"
-  },
-  {
-    "cityName": "הערבה מ\"א 53",
-    "symbol": "1945"
-  },
-  {
-    "cityName": "הערבה מ\"א 54",
-    "symbol": "1946"
-  },
-  {
     "cityName": "הר אדר",
     "symbol": "3769",
     "englishCopy": "HAR ADAR",
     "englishName": "Har Adar"
   },
   {
-    "cityName": "הר אלכסנדר מ\"א 14",
-    "symbol": "1869"
-  },
-  {
-    "cityName": "הר אלכסנדר מ\"א 45",
-    "symbol": "1868"
-  },
-  {
-    "cityName": "הר אלכסנדר של\"ש",
-    "symbol": "1870"
-  },
-  {
     "cityName": "הר גילה",
     "symbol": "3603",
     "englishCopy": "HAR GILLO",
     "englishName": "Har Gillo"
-  },
-  {
-    "cityName": "הר הנגב הדרומי מ\"א 48",
-    "symbol": "1953"
-  },
-  {
-    "cityName": "הר הנגב הדרומי מ\"א 53",
-    "symbol": "1951"
-  },
-  {
-    "cityName": "הר הנגב הדרומי מ\"א 54",
-    "symbol": "1952"
-  },
-  {
-    "cityName": "הר הנגב הצפוני מ\"א 48",
-    "symbol": "1948"
-  },
-  {
-    "cityName": "הר הנגב הצפוני מ\"א 51",
-    "symbol": "1949"
-  },
-  {
-    "cityName": "הר הנגב הצפוני מ\"א 53",
-    "symbol": "1947"
-  },
-  {
-    "cityName": "הר הנגב הצפוני מ\"א 54",
-    "symbol": "1950"
   },
   {
     "cityName": "הר עמשא",
@@ -2796,22 +2280,6 @@
     "englishName": "Harduf"
   },
   {
-    "cityName": "הרי יהודה מ\"א 26",
-    "symbol": "1801"
-  },
-  {
-    "cityName": "הרי יהודה של\"ש",
-    "symbol": "1802"
-  },
-  {
-    "cityName": "הרי נצרת-תירען",
-    "symbol": "1823"
-  },
-  {
-    "cityName": "הרי נצרת-תירען מ\"א 9",
-    "symbol": "1839"
-  },
-  {
     "cityName": "הרצלייה",
     "symbol": "6400",
     "englishCopy": "HERZLIYYA",
@@ -2822,10 +2290,6 @@
     "symbol": "1203",
     "englishCopy": "HARARIT",
     "englishName": "Hararit"
-  },
-  {
-    "cityName": "השומרון",
-    "symbol": "1999"
   },
   {
     "cityName": "ורד יריחו",
@@ -3020,10 +2484,6 @@
     "englishName": "Hussniyya"
   },
   {
-    "cityName": "חוף הכרמל מ\"א 15",
-    "symbol": "1864"
-  },
-  {
     "cityName": "חופית",
     "symbol": "115",
     "englishCopy": "HOFIT",
@@ -3214,10 +2674,6 @@
     "symbol": "1247",
     "englishCopy": "HARISH",
     "englishName": "Harish"
-  },
-  {
-    "cityName": "חרמון מ\"א 71",
-    "symbol": "1960"
   },
   {
     "cityName": "חרמש",
@@ -3490,11 +2946,6 @@
     "englishName": "Yakhini"
   },
   {
-    "cityName": "ים המלח - בתי מלון",
-    "symbol": "1772",
-    "englishCopy": " "
-  },
-  {
     "cityName": "ינוב",
     "symbol": "753",
     "englishCopy": "YANUV",
@@ -3547,10 +2998,6 @@
     "symbol": "795",
     "englishCopy": "YA'ARA",
     "englishName": "Ya'ara"
-  },
-  {
-    "cityName": "יערות גבעת המורה מ\"א 9",
-    "symbol": "1863"
   },
   {
     "cityName": "יפיע",
@@ -4585,11 +4032,6 @@
     "englishName": "Migdal Oz"
   },
   {
-    "cityName": "מגדל תפן",
-    "symbol": "1722",
-    "englishCopy": " "
-  },
-  {
     "cityName": "מגדלים",
     "symbol": "3751",
     "englishCopy": "MIGDALIM",
@@ -4696,14 +4138,6 @@
     "symbol": "28",
     "englishCopy": "MAZKERET BATYA",
     "englishName": "Mazkeret Batya"
-  },
-  {
-    "cityName": "מזרח השרון מ\"א 16",
-    "symbol": "1879"
-  },
-  {
-    "cityName": "מזרח השרון מ\"א 18",
-    "symbol": "1880"
   },
   {
     "cityName": "מזרע",
@@ -5108,18 +4542,6 @@
     "englishName": "Ma'anit"
   },
   {
-    "cityName": "מערב השרון מ\"א 16",
-    "symbol": "1876"
-  },
-  {
-    "cityName": "מערב השרון מ\"א 18",
-    "symbol": "1877"
-  },
-  {
-    "cityName": "מערב השרון מ\"א 19",
-    "symbol": "1878"
-  },
-  {
     "cityName": "מעש",
     "symbol": "230",
     "englishCopy": "MA'AS",
@@ -5131,86 +4553,7 @@
     "englishCopy": "MEFALLESIM",
     "englishName": "Mefallesim"
   },
-  {
-    "cityName": "מפעלי אבשלו\"ם",
-    "symbol": "1767",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "מפעלי ברקן",
-    "symbol": "1791",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "מפעלי גליל עליון",
-    "symbol": "1706",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "מפעלי גרנות",
-    "symbol": "1739",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "מפעלי העמק (יזרעאל)",
-    "symbol": "1717",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "מפעלי חבל מודיעים",
-    "symbol": "1729",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "מפעלי חפר",
-    "symbol": "1745",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "מפעלי ים המלח(סדום)",
-    "symbol": "1775",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "מפעלי כנות",
-    "symbol": "1753",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "מפעלי מישור רותם",
-    "symbol": "1773",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "מפעלי מעון",
-    "symbol": "1769",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "מפעלי נחם הרטוב",
-    "symbol": "1701",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "מפעלי צומת מלאכי",
-    "symbol": "1761",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "מפעלי צין - ערבה",
-    "symbol": "1776",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "מפעלי צמח",
-    "symbol": "1711",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "מפעלי שאן",
-    "symbol": "1719",
-    "englishCopy": " "
-  },
+
   {
     "cityName": "מצדות יהודה",
     "symbol": "3745",
@@ -5312,36 +4655,6 @@
     "symbol": "66",
     "englishCopy": "MERHAVYA(QIBBUZ)",
     "englishName": "Merhavya(Qibbuz)"
-  },
-  {
-    "cityName": "מרכז אזורי כדורי",
-    "symbol": "1713",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "מרכז אזורי מרום הגליל",
-    "symbol": "1708",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "מרכז אזורי משגב",
-    "symbol": "1723",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "מרכז אזורי שוהם",
-    "symbol": "1747",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "מרכז כ\"ח",
-    "symbol": "1705",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "מרכז מיר\"ב*",
-    "symbol": "1715",
-    "englishCopy": " "
   },
   {
     "cityName": "מרכז שפירא",
@@ -5482,11 +4795,6 @@
     "englishName": "Ne'ot HaKikkar"
   },
   {
-    "cityName": "נאות חובב",
-    "symbol": "1770",
-    "englishCopy": " "
-  },
-  {
     "cityName": "נאות מרדכי",
     "symbol": "408",
     "englishCopy": "NE'OT MORDEKHAY",
@@ -5581,11 +4889,6 @@
     "symbol": "405",
     "englishCopy": "NEWE ILAN",
     "englishName": "Newe Ilan"
-  },
-  {
-    "cityName": "נווה אילן*",
-    "symbol": "1702",
-    "englishCopy": " "
   },
   {
     "cityName": "נווה איתן",
@@ -5708,18 +5011,10 @@
     "englishName": "Nehusha"
   },
   {
-    "cityName": "נחל יפתחאל מ\"א 3",
-    "symbol": "1883"
-  },
-  {
     "cityName": "נחל עוז",
     "symbol": "844",
     "englishCopy": "NAHAL OZ",
     "englishName": "Nahal Oz"
-  },
-  {
-    "cityName": "נחל תבור מ\"א 8",
-    "symbol": "1861"
   },
   {
     "cityName": "נחלה",
@@ -5950,11 +5245,6 @@
     "englishName": "Niran"
   },
   {
-    "cityName": "נמל תעופה בן-גוריון",
-    "symbol": "1748",
-    "englishCopy": " "
-  },
-  {
     "cityName": "נמרוד",
     "symbol": "4035",
     "englishCopy": "NIMROD",
@@ -6001,66 +5291,6 @@
     "symbol": "158",
     "englishCopy": "NA'AN",
     "englishName": "Na'an"
-  },
-  {
-    "cityName": "נפת בית לחם",
-    "symbol": "1982"
-  },
-  {
-    "cityName": "נפת בית לחם מ\"א 76",
-    "symbol": "1981"
-  },
-  {
-    "cityName": "נפת ג'נין  ",
-    "symbol": "1971"
-  },
-  {
-    "cityName": "נפת ג'נין  מ\"א 72",
-    "symbol": "1970"
-  },
-  {
-    "cityName": "נפת חברון",
-    "symbol": "1984"
-  },
-  {
-    "cityName": "נפת חברון מ\"א 78",
-    "symbol": "1983"
-  },
-  {
-    "cityName": "נפת טול כרם",
-    "symbol": "1975"
-  },
-  {
-    "cityName": "נפת טול כרם  מ\"א 72",
-    "symbol": "1974"
-  },
-  {
-    "cityName": "נפת ירדן",
-    "symbol": "1980"
-  },
-  {
-    "cityName": "נפת ירדן מ\"א 74",
-    "symbol": "1978"
-  },
-  {
-    "cityName": "נפת ירדן מ\"א 75",
-    "symbol": "1979"
-  },
-  {
-    "cityName": "נפת ראמאללה ",
-    "symbol": "1977"
-  },
-  {
-    "cityName": "נפת ראמאללה מ\"א  73",
-    "symbol": "1976"
-  },
-  {
-    "cityName": "נפת שכם",
-    "symbol": "1973"
-  },
-  {
-    "cityName": "נפת שכם מ\"א 72",
-    "symbol": "1972"
   },
   {
     "cityName": "נצאצרה (שבט)",
@@ -6279,11 +5509,6 @@
     "englishName": "Agur"
   },
   {
-    "cityName": "עד הלום",
-    "symbol": "1762",
-    "englishCopy": " "
-  },
-  {
     "cityName": "עדי",
     "symbol": "1199",
     "englishCopy": "ADI",
@@ -6384,11 +5609,6 @@
     "symbol": "1175",
     "englishCopy": "IDDAN",
     "englishName": "Iddan"
-  },
-  {
-    "cityName": "עידן הנגב",
-    "symbol": "1765",
-    "englishCopy": " "
   },
   {
     "cityName": "עיילבון",
@@ -6691,50 +5911,6 @@
     "englishName": "Immanu'el"
   },
   {
-    "cityName": "עמק בית שאן מ\"א 7",
-    "symbol": "1824"
-  },
-  {
-    "cityName": "עמק בית שאן של\"ש",
-    "symbol": "1825"
-  },
-  {
-    "cityName": "עמק חולה מ\"א 1",
-    "symbol": "1806"
-  },
-  {
-    "cityName": "עמק חולה מ\"א 55",
-    "symbol": "1807"
-  },
-  {
-    "cityName": "עמק חולה של\"ש",
-    "symbol": "1808"
-  },
-  {
-    "cityName": "עמק חפר מזרח מ\"א 16",
-    "symbol": "1875"
-  },
-  {
-    "cityName": "עמק חרוד מ\"א 8",
-    "symbol": "1826"
-  },
-  {
-    "cityName": "עמק חרוד של\"ש",
-    "symbol": "1827"
-  },
-  {
-    "cityName": "עמק יזרעאל מ\"א 13",
-    "symbol": "1834"
-  },
-  {
-    "cityName": "עמק יזרעאל מ\"א 8",
-    "symbol": "1832"
-  },
-  {
-    "cityName": "עמק יזרעאל מ\"א 9",
-    "symbol": "1833"
-  },
-  {
     "cityName": "עמקה",
     "symbol": "708",
     "englishCopy": "AMQA",
@@ -6841,15 +6017,6 @@
     "symbol": "1151",
     "englishCopy": "PARAN",
     "englishName": "Paran"
-  },
-  {
-    "cityName": "פארק הירדן מ\"א 6",
-    "symbol": "1961"
-  },
-  {
-    "cityName": "פארק תעשיות ספירים",
-    "symbol": "1763",
-    "englishCopy": " "
   },
   {
     "cityName": "פדואל",
@@ -7266,9 +6433,9 @@
     "englishName": "Qela"
   },
   {
-    "cityName": "קציר                ",
+    "cityName": "קציר ",
     "symbol": "1243",
-    "englishCopy": "QAZIR               ",
+    "englishCopy": "QAZIR",
     "englishName": "Qazir"
   },
   {
@@ -7312,11 +6479,6 @@
     "symbol": "2630",
     "englishCopy": "QIRYAT GAT",
     "englishName": "Qiryat Gat"
-  },
-  {
-    "cityName": "קריית חינוך מרחבים*",
-    "symbol": "1768",
-    "englishCopy": " "
   },
   {
     "cityName": "קריית טבעון",
@@ -7383,16 +6545,6 @@
     "symbol": "2800",
     "englishCopy": "QIRYAT SHEMONA",
     "englishName": "Qiryat Shemona"
-  },
-  {
-    "cityName": "קרית חינוך עזתה",
-    "symbol": "1766",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "קרית תעופה",
-    "symbol": "1746",
-    "englishCopy": " "
   },
   {
     "cityName": "קרני שומרון",
@@ -7677,34 +6829,10 @@
     "englishName": "Ramat Yishay"
   },
   {
-    "cityName": "רמת כוכב מ\"א 7",
-    "symbol": "1828"
-  },
-  {
-    "cityName": "רמת כוכב מ\"א 8",
-    "symbol": "1829"
-  },
-  {
-    "cityName": "רמת כוכב מ\"א 9",
-    "symbol": "1830"
-  },
-  {
-    "cityName": "רמת כוכב של\"ש",
-    "symbol": "1831"
-  },
-  {
     "cityName": "רמת מגשימים",
     "symbol": "4701",
     "englishCopy": "RAMAT MAGSHIMIM",
     "englishName": "Ramat Magshimim"
-  },
-  {
-    "cityName": "רמת מנשה מ\"א 13",
-    "symbol": "1837"
-  },
-  {
-    "cityName": "רמת מנשה של\"ש",
-    "symbol": "1838"
   },
   {
     "cityName": "רמת צבי",
@@ -8091,11 +7219,6 @@
     "englishName": "Shlomit                                           "
   },
   {
-    "cityName": "שלומציון",
-    "symbol": "1793",
-    "englishCopy": " "
-  },
-  {
     "cityName": "שמיר",
     "symbol": "366",
     "englishCopy": "SHAMIR",
@@ -8190,14 +7313,6 @@
     "symbol": "692",
     "englishCopy": "SHAFIR",
     "englishName": "Shafir"
-  },
-  {
-    "cityName": "שפלת יהודה מ\"א 26",
-    "symbol": "1803"
-  },
-  {
-    "cityName": "שפלת יהודה של\"ש",
-    "symbol": "1804"
   },
   {
     "cityName": "שפר",
@@ -8308,11 +7423,6 @@
     "englishName": "Tel Aviv - Yafo"
   },
   {
-    "cityName": "תל חי (מכללה)",
-    "symbol": "1707",
-    "englishCopy": " "
-  },
-  {
     "cityName": "תל יוסף",
     "symbol": "84",
     "englishCopy": "TEL YOSEF",
@@ -8419,56 +7529,6 @@
     "symbol": "752",
     "englishCopy": "TA'OZ",
     "englishName": "Ta'oz"
-  },
-  {
-    "cityName": "תעשיון בינימין*",
-    "symbol": "1744",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "תעשיון השרון",
-    "symbol": "1741",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "תעשיון חבל יבנה",
-    "symbol": "1750",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "תעשיון חצב*",
-    "symbol": "1742",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "תעשיון מבצע*",
-    "symbol": "1754",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "תעשיון מיתרים",
-    "symbol": "1794",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "תעשיון צריפין",
-    "symbol": "1749",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "תעשיון ראם*",
-    "symbol": "1755",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "תעשיון שח\"ק",
-    "symbol": "1792",
-    "englishCopy": " "
-  },
-  {
-    "cityName": "תעשיות גליל תחתון",
-    "symbol": "1714",
-    "englishCopy": " "
   },
   {
     "cityName": "תפרח",
